@@ -12,7 +12,7 @@ namespace Proyecto.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Comentarios",
+                name: "Comentarioss",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -23,11 +23,11 @@ namespace Proyecto.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Comentarios", x => x.Id);
+                    table.PrimaryKey("PK_Comentarioss", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Noticias",
+                name: "Noticiass",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -40,7 +40,7 @@ namespace Proyecto.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Noticias", x => x.Id);
+                    table.PrimaryKey("PK_Noticiass", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -64,10 +64,10 @@ namespace Proyecto.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Comentarios");
+                name: "Comentarioss");
 
             migrationBuilder.DropTable(
-                name: "Noticias");
+                name: "Noticiass");
 
             migrationBuilder.DropTable(
                 name: "Usuarios");

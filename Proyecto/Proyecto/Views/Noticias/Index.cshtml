@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Proyecto.Models.Noticias>
+
+@{
+    ViewData["Title"] = "Noticias";
+}
+
+<h1>Noticias</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ContenidoNoticia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dedicatoria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaPublicado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContenidoNoticia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dedicatoria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaPublicado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imagen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Mostrar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Borrar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

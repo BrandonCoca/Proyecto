@@ -11,8 +11,8 @@ namespace Proyecto.Context
         }
 
         public DbSet<Usuario> Usuarios { get; set; }
-        public DbSet<Noticias> Noticias { get; set; }
-        public DbSet<Comentarios> Comentarios { get; set; }
+        public DbSet<Noticias> Noticiass { get; set; }
+        public DbSet<Comentarios> Comentarioss { get; set; }
 
     }
 }

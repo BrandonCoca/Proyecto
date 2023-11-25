@@ -1,0 +1,51 @@
+﻿@model Proyecto.Models.Noticias
+
+@{
+    ViewData["Title"] = "Crear";
+}
+
+<h1>Crear</h1>
+
+<h4>Noticia</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ContenidoNoticia" class="control-label"></label>
+                <input asp-for="ContenidoNoticia" class="form-control" />
+                <span asp-validation-for="ContenidoNoticia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dedicatoria" class="control-label"></label>
+                <input asp-for="Dedicatoria" class="form-control" />
+                <span asp-validation-for="Dedicatoria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaPublicado" class="control-label"></label>
+                <input asp-for="FechaPublicado" class="form-control" />
+                <span asp-validation-for="FechaPublicado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Imagen" class="control-label"></label>
+                <input asp-for="Imagen" class="form-control" />
+                <span asp-validation-for="Imagen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+

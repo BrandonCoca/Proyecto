@@ -12,7 +12,7 @@ using Proyecto.Context;
 namespace Proyecto.Migrations
 {
     [DbContext(typeof(MiContext))]
-    [Migration("20231125002702_FirsthMigration")]
+    [Migration("20231125035703_FirsthMigration")]
     partial class FirsthMigration
     {
         /// <inheritdoc />
@@ -46,7 +46,7 @@ namespace Proyecto.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Comentarios");
+                    b.ToTable("Comentarioss");
                 });
 
             modelBuilder.Entity("Proyecto.Models.Noticias", b =>
@@ -77,7 +77,7 @@ namespace Proyecto.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Noticias");
+                    b.ToTable("Noticiass");
                 });
 
             modelBuilder.Entity("Proyecto.Models.Usuario", b =>
