@@ -9,103 +9,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proyecto
 build_property.RootNamespace = Proyecto
-build_property.ProjectDir = C:\Users\veliz\Desktop\Proyecto\Proyecto\Proyecto\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = E:\Desktop\Proyecto Actualizacion\Proyecto\Proyecto\Proyecto\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\veliz\Desktop\Proyecto\Proyecto\Proyecto
+build_property.MSBuildProjectDirectory = E:\Desktop\Proyecto Actualizacion\Proyecto\Proyecto\Proyecto
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Comentarios/Create.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Comentarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Comentarios/Delete.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Comentarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Comentarios/Details.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Comentarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Comentarios/Edit.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Comentarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Comentarios/Index.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Comentarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Home/AcercaDe.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Home/AcercaDe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2FEZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Home/Index.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Home/Privacy.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Noticias/Create.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Noticias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Noticias/Delete.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Noticias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Noticias/Details.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Noticias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Noticias/Edit.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Noticias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Noticias/Index.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Noticias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Shared/Error.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Usuarios/Create.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Usuarios/Delete.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Usuarios/Details.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Usuarios/Edit.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Usuarios/Index.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/_ViewImports.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/_ViewStart.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/veliz/Desktop/Proyecto/Proyecto/Proyecto/Views/Shared/_Layout.cshtml]
+[E:/Desktop/Proyecto Actualizacion/Proyecto/Proyecto/Proyecto/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-llr71ombjl

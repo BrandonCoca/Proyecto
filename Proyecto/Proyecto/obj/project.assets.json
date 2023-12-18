@@ -10571,24 +10571,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\veliz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Wele\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
+      "projectUniqueName": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
-      "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\obj\\",
+      "projectPath": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
+      "packagesPath": "C:\\Users\\Wele\\.nuget\\packages\\",
+      "outputPath": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\veliz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Wele\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10658,7 +10653,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
