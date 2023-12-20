@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veliz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj": {}
+  },
+  "projects": {
+    "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
+        "projectName": "Proyecto",
+        "projectPath": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
+        "packagesPath": "C:\\Users\\Wele\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

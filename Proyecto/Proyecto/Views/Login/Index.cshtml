@@ -11,6 +11,7 @@
     <title>Login</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <style>
+<<<<<<< HEAD
         body{
          color:aliceblue;
         }
@@ -18,22 +19,41 @@
     </head>
 <body>
 
+=======
+        body {
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
     <style>
         body {
             background-image: url('https://img.freepik.com/vector-gratis/fondo-boletin-noticias-tecnologia-global-tierra_1017-33687.jpg?size=626&ext=jpg');
             background-size: cover;
             background-position: center;
             padding: 100px 10px;
+<<<<<<< HEAD
            
         }
     </style>
 
+=======
+
+        }
+
+    </style>
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
     <div class="container">
         <div class="row">
             <div class="col-sm-4"></div>
             <div class="col-sm-4" style="padding-top: 100px">
                 <h1 class="h3 mb-3 fw-normal text-center">Login</h1>
+<<<<<<< HEAD
                 <h5 class="text-center"><b>DIARIO AMANECER</b></h5>
+=======
+                <h5 class="text-center">BIENVENIDO AL PERIODICO AMANECER</h5>
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
                 <form asp-action="Login" asp-controller="Login" method="post">
                     <div class="mb-3">
                         <label for="correo">Correo Electronico</label>
@@ -43,16 +63,25 @@
                         <label for="contrasena">Password</label>
                         <input type="password" id="contrasena" name="contrasena" class="form-control" required>
                     </div>
+<<<<<<< HEAD
                     <div class="mb-3">
                         <button class="w-100 btn btn-lg btn-primary">Ingresar</button>
                     </div>
                    
                     
+=======
+
+                    <button class="w-100 btn btn-lg btn-primary" type="submit">Ingresar al Sistema</button>
+                    <br><br>
+                    
+
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
                     @if (TempData["LoginError"] != null)
                     {
                         <div class="alert alert-danger mt-5">@TempData["LoginError"]</div>
                     }
                 </form>
+<<<<<<< HEAD
 
                 <div class="mb-3">
                     <form asp-action="Regis" asp-controller="Login" method="post">
@@ -65,17 +94,26 @@
 
                     </form>
                 </div>
+=======
+                <form asp-action="Login" asp-controller="Login" method="post">
+                    <button class="w-100 btn btn-lg btn-primary" type="submit">Ingresar como Invitado</button>
+                </form>
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
 
                 <p class="mt-5 mb-3 text-muted">&copy; 2023</p>
             </div>
             <div class="col-sm-4"></div>
         </div>
     </div>
+<<<<<<< HEAD
 
     
 
 
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
    
+=======
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
 </body>
 </html>

@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "AQpjHh7feGj8Sj+qqv0y7DMtLET1EHFu02v7u/PyuDE=",
+=======
+  "Hash": "ojxXM7I6q8sKEGosd4PMMGt9RK/fKHd/+7ZpTL/9Xe4=",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
   "Source": "Proyecto",
   "BasePath": "_content/Proyecto",
   "Mode": "Default",
@@ -10,29 +14,39 @@
     {
       "Name": "Proyecto\\wwwroot",
       "Source": "Proyecto",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto.styles.css",
       "SourceId": "Proyecto",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto.styles.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "Proyecto.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto.styles.css"
     },
     {
@@ -40,18 +54,26 @@
       "SourceId": "Proyecto",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto.styles.css"
+    },
+    {
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto.bundle.scp.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "Proyecto.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto.bundle.scp.css"
     },
     {
@@ -59,13 +81,20 @@
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "OriginalItemSpec": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\css\\site.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -74,17 +103,22 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\favicon.ico",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\favicon.ico",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -93,17 +127,22 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\js\\site.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\js\\site.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -112,17 +151,22 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -131,17 +175,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -150,17 +199,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -169,17 +223,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -188,17 +247,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -207,17 +271,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -226,17 +295,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -245,17 +319,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -264,17 +343,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -283,17 +367,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -302,17 +391,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -321,17 +415,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -340,17 +439,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -359,17 +463,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -378,17 +487,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -397,17 +511,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -416,17 +535,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -435,17 +559,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -454,17 +583,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -473,17 +607,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -492,17 +631,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -511,17 +655,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -530,17 +679,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -549,17 +703,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -568,17 +727,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -587,17 +751,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -606,17 +775,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -625,17 +799,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -644,17 +823,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -663,17 +847,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -682,17 +871,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -701,17 +895,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -720,17 +919,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -739,17 +943,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -758,17 +967,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -777,17 +991,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -796,17 +1015,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -815,17 +1039,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -834,17 +1063,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -853,17 +1087,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -872,17 +1111,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -891,17 +1135,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -910,17 +1159,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -929,17 +1183,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -948,17 +1207,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -967,17 +1231,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -986,17 +1255,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1005,17 +1279,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1024,17 +1303,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1043,17 +1327,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1062,17 +1351,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1081,17 +1375,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1100,17 +1399,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1119,17 +1423,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1138,17 +1447,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1157,17 +1471,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1176,17 +1495,22 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\veliz\\Desktop\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+=======
+      "Identity": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Proyecto Actualizacion\\Proyecto\\Proyecto\\Proyecto\\wwwroot\\",
+>>>>>>> 7a66f1b2e7398d30121848f85cb34e1f05edec1b
       "BasePath": "_content/Proyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
