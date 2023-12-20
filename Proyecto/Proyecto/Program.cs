@@ -1,6 +1,9 @@
+using QuestPDF.Infrastructure;
+
 using Microsoft.EntityFrameworkCore;
 using Proyecto.Context;
 
+QuestPDF.Settings.License = LicenseType.Community;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -8,7 +11,7 @@ builder.Services.AddControllersWithViews();
 
 // Add Connection String
 builder.Services.AddDbContext<MiContext>(options => {
-    options.UseSqlite(builder.Configuration.GetConnectionString("CadenaConexion"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CadenaConexion"));
 });
 
 var app = builder.Build();
@@ -30,6 +33,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Index}/{id?}");
 
 app.Run();
